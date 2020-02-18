@@ -1,0 +1,8 @@
+{
+  "name": "resolve-none",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ShipChain/resolve-none.git",
+  "author": "Lucas Clay <38572212+mlclay@users.noreply.github.com>",
+  "license": "MIT"
+}
